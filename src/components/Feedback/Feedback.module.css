@@ -1,0 +1,19 @@
+
+.feedbackList {
+    list-style-type: none;
+}
+
+.feedbackItem {
+    font-size: 28px;
+    font-weight: 600;
+    color: rgba(50, 25, 10, 0.61);
+}
+
+
+.feedbackSpan {
+    font-size: 28px;
+    font-weight: 700;
+    font-weight: bold;
+    color: rgba(50, 25, 10, 0.785);
+}
+

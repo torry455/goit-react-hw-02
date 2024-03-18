@@ -1,0 +1,22 @@
+.buttonsList {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 50px;
+    list-style-type: none;
+}
+
+.buttonsItem {
+    width: 150px;
+    height: 70px;
+    color: rgba(250, 226, 209, 0.724);
+    font-size: 24px;
+    font-weight: 500;
+    border-radius: 8px;
+    background-color: rgb(34, 11, 11);
+}
+
+.buttonsItem:hover,
+.buttonsItem:focus {
+    background-color: #390c1f;
+}

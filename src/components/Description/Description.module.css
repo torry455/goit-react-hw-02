@@ -1,0 +1,16 @@
+.descriptionTitle {
+    color: rgb(34, 11, 11);
+    font-size: 48px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.descriptionText {
+    font-size: 36px;
+    max-width: 768px;
+    margin: 20px auto;
+    color: rgb(34, 11, 11);
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    margin-bottom: 30px;
+}
